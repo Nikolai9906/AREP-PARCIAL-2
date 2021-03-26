@@ -52,6 +52,10 @@ Para generar javadoc de las pruebas: ```mvn javadoc:test-javadoc```
 
 **IMPORTANTE:** Para poder utilizar el aplicativo es necesario compilar primero el proyecto con **mvn package**.
 
+# Video de usabilidad API - AWS Docker
+
+https://drive.google.com/file/d/1FdNWuvldklV-REMoS0ELXsyF9Vbfy-qt/view?usp=sharing
+
 # Despliegue AWS - log
 
 http://ec2-3-83-14-117.compute-1.amazonaws.com:34000/log?value=0.9
