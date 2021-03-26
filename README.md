@@ -61,6 +61,14 @@ http://ec2-3-83-14-117.compute-1.amazonaws.com:34000/log?value=0.9
 
 http://ec2-3-83-14-117.compute-1.amazonaws.com:34000/acos?value=0.9
 
+# Despliegue API - acos
+
+https://3vinaaepw9.execute-api.us-east-1.amazonaws.com/acos?value=0.8
+
+# Despliegue API - log
+
+https://r83ewxcdxb.execute-api.us-east-1.amazonaws.com/log?value=0.8
+
 ## Version local
 ![](img/img.png)
 
